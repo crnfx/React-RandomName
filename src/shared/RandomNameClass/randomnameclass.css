@@ -1,0 +1,26 @@
+.container {
+   padding: 50px 0;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+  }
+ 
+  .name {
+   font-size: 35px;
+  }
+ 
+  .gap {
+   padding: 50px 0;
+  }
+ 
+  .button {
+   padding: 15px 20px;
+   background-color:  blue;
+   color: white;
+  }
+ 
+  .title {
+   margin-bottom: 50px;
+  }
+  
